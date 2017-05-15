@@ -1,0 +1,36 @@
+/* Agrega aquÃ­ tus estilos*/
+
+body{
+	background-color: #80bfff;
+	color:blue;
+	margin: 0 auto;
+}
+
+header h1{	
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	font-size: 40px;
+}
+
+header h2{
+	font-family: 'Lobster';
+	text-align: center;
+	color: white;
+}
+
+header{
+	background-image: url("../img/zen4.png");
+	font-family: 'Baloo';
+	background-size: 100%;
+}
+
+h3{
+	font-family: 'Lobster';
+}
+p{
+	font-family: 'Baloo';
+};
+
+
+
